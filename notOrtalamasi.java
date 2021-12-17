@@ -28,6 +28,5 @@ public class notOrtalamasi {
             System.out.println("Sınıfta Kaldınız. Ortalamanız : " + ort);
             break;
         }
-
     }
 }
